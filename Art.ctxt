@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ init()
+comment0.text=\r\n\ This\ method\ is\ called\ exactly\ once\ when\ your\ program\ is\ first\ started.\r\n\ It\ asks\ the\ user\ for\ information\ used\ to\ customize\ the\ final\ drawing.\r\n
+comment1.params=canvas\ x\ y
+comment1.target=void\ drawTree(java.awt.Graphics,\ int,\ int)
+comment2.params=g
+comment2.target=void\ drawMonster(java.awt.Graphics)
+comment3.params=canvas
+comment3.target=void\ paint(java.awt.Graphics)
+comment3.text=\r\n\ This\ program\ uses\ the\ data\ that\ the\ init()\ method\ placed\ in\ the\ program's\r\n\ instance\ variables\ to\ draw\ artwork\ on\ the\ window.\ \ \r\n\ \r\n\ This\ method\ will\ be\ called\ many\ times.\ \ Each\ time\ the\ window\ is\ moved,\r\n\ resized,\ covered\ or\ uncovered,\ the\ painting\ must\ be\ redrawn.\r\n\ \r\n\ @param\ \ canvas\ \ \ the\ Graphics\ object\ for\ this\ applet\r\n
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+comment4.text=\r\n\ The\ program\ begins\ by\ creating\ a\ window\ frame\ and\ putting\ a\ drawing\ canvas\r\n\ into\ it.\ \ CS203\ Students\ can\ safely\ ignore\ this\ method\ though\ you\ may\ wish\r\n\ to\ change\ the\ size\ of\ the\ window\ from\ the\ 500x500\ specified\ below.\r\n
+numComments=5
